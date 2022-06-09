@@ -8,7 +8,7 @@ import { BsGithub} from 'react-icons/bs';
 const TechStack = () => {
     return (
         <section>
-            <div className="hero bg-base-200 ">
+            <div className="hero min-h-screen bg-base-200 ">
                 <div className="hero-content text-center">
                     <div className="">
                         <h1 className="text-5xl font-bold">My Tech Stack</h1>
