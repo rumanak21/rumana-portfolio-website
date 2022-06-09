@@ -37,6 +37,7 @@ const Header = () => {
 
                             and, highly passionate about programming.
                         </h2>
+                        
                         <button className="btn bg-orange-500 mt-6 mx-6">Contact Me</button>
                         <button className="btn bg-orange-500">Resume</button>
                     </div>
