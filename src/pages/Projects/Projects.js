@@ -1,7 +1,7 @@
 import React from 'react';
-import project1 from './../../img/project1.png'
-import project2 from './../../img/project2.png'
-import project3 from './../../img/project3.png'
+import project1 from './../../img/project1.png';
+import project2 from './../../img/project2.png';
+import project3 from './../../img/project3.png';
 
 const Projects = () => {
     return (
@@ -9,7 +9,7 @@ const Projects = () => {
 
             <div className='min-h-screen bg-base-200'>
                 <div className='text-center'><h1 className="text-5xl font-bold">My Projects</h1>
-                    <p className="py-6">Some projects that I have built so far.</p>
+                    <p className="py-6">Some projects that I have built so far.....</p>
                 </div>
                 <div className='grid grid-cols-3 gap-4'>
 
